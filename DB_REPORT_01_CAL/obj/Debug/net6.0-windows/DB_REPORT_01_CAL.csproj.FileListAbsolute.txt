@@ -1,0 +1,17 @@
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\bin\Debug\net6.0-windows\DB_REPORT_01_CAL.exe
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\bin\Debug\net6.0-windows\DB_REPORT_01_CAL.deps.json
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\bin\Debug\net6.0-windows\DB_REPORT_01_CAL.runtimeconfig.json
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\bin\Debug\net6.0-windows\DB_REPORT_01_CAL.dll
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\bin\Debug\net6.0-windows\DB_REPORT_01_CAL.pdb
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\DB_REPORT_01_CAL.csproj.AssemblyReference.cache
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\DB_REPORT_01_CAL.Form1.resources
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\DB_REPORT_01_CAL.csproj.GenerateResource.cache
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\DB_REPORT_01_CAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\DB_REPORT_01_CAL.AssemblyInfoInputs.cache
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\DB_REPORT_01_CAL.AssemblyInfo.cs
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\DB_REPORT_01_CAL.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\DB_REPORT_01_CAL.dll
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\refint\DB_REPORT_01_CAL.dll
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\DB_REPORT_01_CAL.pdb
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\DB_REPORT_01_CAL.genruntimeconfig.cache
+E:\VisualStudio\Source\DB_REPORT_01_CAL\DB_REPORT_01_CAL\obj\Debug\net6.0-windows\ref\DB_REPORT_01_CAL.dll
